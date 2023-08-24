@@ -4,19 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
-### Screenshot
-
-![](design/screenshot.jpg)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexbox-qr-code-component-BKE1-UKx1s)
+- Live Site URL: [Add live site URL here](https://claudionetto.github.io/frontend-mentor-qrcode/)
 
 ### Built with
 
@@ -26,6 +21,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@claudionetto](https://www.frontendmentor.io/profile/claudionetto)
+- Linkedin - [@claudionettojunior](https://www.linkedin.com/in/cl%C3%A1udio-netto-junior-12b359209/)
 
